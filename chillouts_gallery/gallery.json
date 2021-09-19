@@ -1,38 +1,278 @@
 [
     {
         "name": "Pirate Skull",
-        "thumbnail": "https://github.com/venkatesh16031999/CryptoNFT/blob/main/hero_two.png?raw=true",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/41.png",
         "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
-        "gif": "https://github.com/venkatesh16031999/CryptoNFT/blob/main/hero_two.png?raw=true"
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/41.png"
+    },
+    {
+        "name": "Zombie",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/43.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/43.png"
+    },
+    {
+        "name": "Werewolf",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/24.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/24.png"
+    },
+    {
+        "name": "Dragon",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/9.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/9.png"
     },
     {
         "name": "Ghost",
-        "thumbnail": "https://github.com/venkatesh16031999/CryptoNFT/blob/main/hero_two.png?raw=true",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/44.png",
         "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
-        "gif": "https://github.com/venkatesh16031999/CryptoNFT/blob/main/hero_two.png?raw=true"
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/44.png"
     },
     {
-        "name": "Ghost Tree",
-        "thumbnail": "https://github.com/venkatesh16031999/CryptoNFT/blob/main/hero_two.png?raw=true",
+        "name": "Death",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/45.png",
         "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
-        "gif": "https://github.com/venkatesh16031999/CryptoNFT/blob/main/hero_two.png?raw=true"
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/45.png"
     },
     {
         "name": "Witch",
-        "thumbnail": "https://github.com/venkatesh16031999/CryptoNFT/blob/main/hero_two.png?raw=true",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/39.png",
         "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
-        "gif": "https://github.com/venkatesh16031999/CryptoNFT/blob/main/hero_two.png?raw=true"
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/39.png"
+    },
+    {
+        "name": "Ghost Tree",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/42.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/42.png"
+    },
+    {
+        "name": "Unicorn",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/6.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/6.png"
+    },
+    {
+        "name": "Fly Dragon",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/19.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/19.png"
     },
     {
         "name": "Mermaid",
-        "thumbnail": "https://github.com/venkatesh16031999/CryptoNFT/blob/main/hero_two.png?raw=true",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/15.png",
         "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
-        "gif": "https://github.com/venkatesh16031999/CryptoNFT/blob/main/hero_two.png?raw=true"
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/15.png"
     },
     {
-        "name": "Piranha",
-        "thumbnail": "https://github.com/venkatesh16031999/CryptoNFT/blob/main/hero_two.png?raw=true",
+        "name": "Shark",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/11.png",
         "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
-        "gif": "https://github.com/venkatesh16031999/CryptoNFT/blob/main/hero_two.png?raw=true"
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/11.png"
+    },
+    {
+        "name": "Pirahana",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/46.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/46.png"
+    },
+    {
+        "name": "Centaur",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/26.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/26.png"
+    },
+    {
+        "name": "Cat",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/25.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/25.png"
+    },
+    {
+        "name": "Seahorse",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/10.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/10.png"
+    },
+    {
+        "name": "Wild Boar",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/23.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/23.png"
+    },
+    {
+        "name": "Mountain Goat",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/36.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/36.png"
+    },
+    {
+        "name": "Spider",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/20.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/20.png"
+    },
+    {
+        "name": "Rhino",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/14.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/14.png"
+    },
+    {
+        "name": "Scorpion",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/15.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/15.png"
+    },
+    {
+        "name": "Bull",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/7.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/7.png"
+    },
+    {
+        "name": "Kong",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/13.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/13.png"
+    },
+    {
+        "name": "Wolf",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/12.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/12.png"
+    },
+    {
+        "name": "Cool Cat",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/32.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/32.png"
+    },
+    {
+        "name": "Bats",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/18.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/18.png"
+    },
+    {
+        "name": "Crazy Cattle",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/40.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/40.png"
+    },
+    {
+        "name": "Hammerhead Shark",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/16.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/16.png"
+    },
+    {
+        "name": "Schnauzer Dog",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/35.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/35.png"
+    },
+    {
+        "name": "Lion",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/8.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/8.png"
+    },
+    {
+        "name": "Dolphin",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/22.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/22.png"
+    },
+    {
+        "name": "Octopus",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/4.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/4.png"
+    },
+    {
+        "name": "King Fisher",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/21.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/21.png"
+    },
+    {
+        "name": "Frog",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/27.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/27.png"
+    },
+    {
+        "name": "Snail",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/33.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/33.png"
+    },
+    {
+        "name": "Deer",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/1.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/1.png"
+    },
+    {
+        "name": "Rat",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/31.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/31.png"
+    },
+    {
+        "name": "Butterfly",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/2.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/2.png"
+    },
+    {
+        "name": "Flamigo",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/37.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/37.png"
+    },
+    {
+        "name": "Stingray",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/17.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/17.png"
+    },
+    {
+        "name": "Bee",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/34.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/34.png"
+    },
+    {
+        "name": "Rabbit",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/38.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/38.png"
+    },
+    {
+        "name": "Centipede",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/29.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/29.png"
+    },
+    {
+        "name": "Peacock",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/3.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/3.png"
+    },
+    {
+        "name": "Ant",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/30.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/30.png"
+    },
+    {
+        "name": "Mantis",
+        "thumbnail": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/28.png",
+        "openseaUrl": "https://opensea.io/collection/cryptochillouts?collectionSlug=cryptochillouts&search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Name&search[stringTraits][0][values][0]=Pirate%20Skull",
+        "gif": "https://raw.githubusercontent.com/venkatesh16031999/CryptoNFT/main/chillouts_gallery/pics/28.png"
     }
 ]
